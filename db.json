@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": [
+    {
+      "id": "894d",
+      "title": "teste",
+      "completed": true
+    },
+    {
+      "id": "def4",
+      "title": "jashdashdkasjdklasjdasda",
+      "completed": true
+    },
+    {
+      "id": "3ae9",
+      "title": "SHUSAHSAUHSAUSAHSUAHSAUHSAUSAHASUSAH",
+      "completed": true
+    }
+  ]
 }
